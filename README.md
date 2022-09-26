@@ -5,4 +5,4 @@
 
 책이름: `Machine Learning With PyTorch and Scikit-Learn`
 
-![image](![image](https://user-images.githubusercontent.com/50165225/192200174-d20b0478-ef4c-4e0c-b4db-f45274bc8465.png))
+![image](https://user-images.githubusercontent.com/50165225/192200192-98927df5-11f5-4310-822f-ae9027f0e836.png)
